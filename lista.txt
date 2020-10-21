@@ -1,0 +1,37 @@
+[x] A mulher que gosta de Coelhos esta ao lado da que gosta de Cavalos.
+[x] Na terceira posicao esta a mulher de Libra.
+[x] A amiga de Amarelo esta exatamente a esquerda da amiga que recebeu uma previsao sobre a Famılia.
+[x] Raquel esta ao lado da amiga que recebeu uma previsao sobre a vida amorosa.
+[x] A garota do vestido Verde esta ao lado da garota que gosta de Cachorros.
+[x] A Pedagoga esta em algum lugar entre a libriana e a Corretora, nessa ordem.
+	como a libriana esta no meio, temos
+	[x] corretora e pedagoga, nessa ordem, a esquerda, ou pedagoga e corretora, nessa ordem, a direita 
+[x] A Biologa esta ao lado da mulher que gosta de Cachorros.
+[x] Gisele esta ao lado da amiga que recebeu uma previsao sobre uma Viagem.
+[x] A mulher que recebeu a previsao sobre Amor esta em algum lugar entre a mulher de Gemeos e a
+mulher que recebeu a previsao sobre a Saude, nessa ordem.
+[x] Na terceira posicao esta a amiga que gosta de Coelhos.
+    [x] logo a que gosta de cavalos é a segunda ou a quarta
+[x] Raquel esta ao lado da amiga de vestido Azul.
+[x] A garota de Gemeos esta em algum lugar entre a garota de Aquario e a garota que recebeu a previsao
+sobre Amor, nessa ordem.
+[x] Quem gosta de Passaros esta ao lado de quem gosta de Cachorros.
+[x] A mulher que recebeu a previsao sobre Saude esta ao lado da sagitariana.
+[x] Helen esta em algum lugar entre a mulher de Gemeos e a Pedagoga, nessa ordem.
+[x] A amiga que gosta de Cavalos esta ao lado da amiga que nasceu em dezembro (sargitario).
+	dezembro é sargitario ou cabricornio
+	mas como não temos ninguem de cabricornio, temos que é sargitario,
+	[x] como a da posicao 3 já é libra, sargitario deve ser a 1 ou 5 posicao
+	como quem gosta de passaros e quem gosta de cachorros esta lado a lado
+	e na lista de animais, existe um espaco livre sem vizinhos livres,
+	[x] temos que esse espaco so pode ser gato, ou seja, gato é vizinho de cavalo
+[x] Luiza esta em algum lugar entre a garota de Branco e a Biologa, nessa ordem.
+	[x] biologa é a terceira, logo luiza so pode ser a segunda
+	[x] também podemos afirmar que a garota de branco é a primeira
+	helen estava entre gemeos e pedagoga, logo poderia ser a segunda ou terceira
+	[x] mas como luiza é a segunda, helen é terceira
+[x] A Veterinaria esta ao lado da mulher de vestido Branco.
+	[x] como a de branco é a primeira, a veterinaria so pode ser a segunda
+	[x] so sobra o primeiro espaco para fotografa
+[x] A Biologa esta em algum lugar a direita da mulher que gosta de Passaros.
+	sim, pois a de passaro é a primeira, e a biologa é a quarta

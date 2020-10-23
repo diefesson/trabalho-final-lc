@@ -1,6 +1,6 @@
 % AVISOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % o site swish.swi-prolog.org usa uma versão antiga do swipl
-% e tem em que algumas regras sem argumento nao sao detectadas
+% e algumas regras sem argumento nao sao detectadas
 
 % BIBLIOTECAS %%%%%%%%%%%%%%%%%%%%%%%%%%
 % biblioteca para operacoes com listas e inteiros
